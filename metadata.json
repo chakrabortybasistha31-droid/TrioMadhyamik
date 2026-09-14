@@ -1,0 +1,8 @@
+{
+  "name": "TrioMadhyamik",
+  "description": "দশম শ্রেণীর ছাত্র-ছাত্রীদের জন্য TrioMadhyamik মাধ্যমিক ২০২৭ মক টেস্ট, ডাউট ক্লিয়ার ও 3D এডুকেশনাল মডেল প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
